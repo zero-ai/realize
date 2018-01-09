@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"errors"
-	"github.com/tockins/realize/realize"
+	"github.com/zero-ai/realize/realize"
 	"log"
 	"strings"
 	"testing"

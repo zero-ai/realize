@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/tockins/interact"
-	"github.com/tockins/realize/realize"
+	"github.com/zero-ai/realize/realize"
 	"gopkg.in/urfave/cli.v2"
 	"log"
 	"os"
